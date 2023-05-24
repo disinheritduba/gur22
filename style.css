@@ -1,6 +1,3 @@
-/* Dosya adı: style.css */
-
-/* Genel stil */
 body {
     background-image: linear-gradient(179deg, rgba(0, 0, 0, 1) 9.2%, rgba(127, 16, 16, 1) 103.9%);
 }
@@ -10,7 +7,6 @@ h1, h2 {
     text-align: center;
 }
 
-/* Başlık stil */
 header {
     background-image: linear-gradient( 172.6deg,  rgba(21,13,15,1) 17.6%, rgb(61, 33, 33) 98.6% );
     padding: 20px;
@@ -41,7 +37,6 @@ nav ul li a:hover {
     background-color: #555;
 }
 
-/* İçerik bölümü stilleri */
 section {
     padding: 20px;
     margin-bottom: 20px;
@@ -50,20 +45,17 @@ section {
     color: #ffffff; /* Yazı rengi beyaz olarak güncellendi */
 }
 
-/* İlgi Alanları */
 section#ilgi-alanlarim ul {
     list-style-type: square;
     padding-left: 20px;
 }
 
-/* İletişim bölümü stilleri */
 section#iletisim ul {
     list-style-type: none;
     margin-left: 0;
     padding: 0;
 }
 
-/* Footer stil */
 footer {
     background-color: #333;
     padding: 10px;
@@ -71,7 +63,6 @@ footer {
     color: #fff;
 }
 
-/* İçerik Ayırıcıları */
 section#hakkimda,
 section#yeteneklerim,
 section#calismalarim,
